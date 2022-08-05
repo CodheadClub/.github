@@ -1,5 +1,5 @@
 <div align="center">
-<img style="width:45%" src="../imgs/tcclogo.jpg" />
+<img style="width:45%" src="imgs/tcclogo.jpg" />
 </div>
 
 <br>
