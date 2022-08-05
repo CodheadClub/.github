@@ -1,5 +1,5 @@
 <div align="center">
-<img style="width:45%" src="imgs/tcclogo.jpg" />
+<img style="width:45%" src="https://github.com/CodheadClub/.github/blob/master/profile/imgs/tcclogo.jpg?raw=true" />
 </div>
 
 <br>
