@@ -4,10 +4,8 @@
 
 <br>
 
-The Codhead Club is an adhoc group of technical professionals working together to aid social, voluntary and charity sector organisations. We provide advice and skills which may not otherwise be available due to monetary or other restrictive means. In addition, we contribute to projects and events for social good.
+We are **The Codhead Club** - an adhoc group of UK based technical professionals and academics. Our github serves as a place to share our work and collaborate on projects. 
 
 Our members are made up of seasoned professionals, academics and engineers. Many with years of BCS membership and contributions to publications worldwide.
 
 If you wish to join our ranks and contribute, you are welcome to join our [Discord](https://discord.gg/DmHbB2PpVn).
-
-If you are seeking help for your organisation or project, please email hello@freelanceguy.co.uk. **Please note:** all requests **must** go to the email address. We do not accept requests via Discord.
