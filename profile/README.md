@@ -4,10 +4,10 @@
 
 <br>
 
-The Codhead Club is an initiative run by technical professionals to aid social, voluntary and charity sector organisations access advice and skills which they may not otherwise have been able to afford. In addition, we contribute to projects and events for social good.
+The Codhead Club is an adhoc group of technical professionals working together to aid social, voluntary and charity sector organisations. We provide advice and skills which may not otherwise be available due to monetary or other restrictive means. In addition, we contribute to projects and events for social good.
 
 Our members are made up of seasoned professionals, academics and engineers. Many with years of BCS membership and contributions to publications worldwide.
 
-If you wish to join our ranks and contribute, you are welcome to join our [Discord](https://discord.gg/DmHbB2PpVn). Alternatively, join us on [Facebook](https://www.facebook.com/codheadclub) or [Linkedin](https://www.linkedin.com/company/codhead-club/) to keep up to date with our latest news.
+If you wish to join our ranks and contribute, you are welcome to join our [Discord](https://discord.gg/DmHbB2PpVn).
 
-If you wish to submit a request for help, please email hello @ parentull .org
+If you are seeking help for your organisation or project, please email hello@freelanceguy.co.uk. **Please note:** all requests **must** go to the email address. We do not accept requests via Discord.
